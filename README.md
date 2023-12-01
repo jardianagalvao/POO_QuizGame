@@ -5,10 +5,10 @@ TRABALHO FINAL AV3
 
 ## Equipe:
 
-Felipe Martins - Responsável pelos Testes
-Jardiana Galvão - Responsável pelos diagramas e relatório
-Samuel Chagas - Responsável pela interface e codificação
-Saul Santos - Responsável pela interface e codificação
+- Felipe Martins - Responsável pelos Testes
+- Jardiana Galvão - Responsável pelos diagramas e relatório
+- Samuel Chagas - Responsável pela interface e codificação
+- Saul Santos - Responsável pela interface e codificação
 
 ## Detalhes:
 Projeto: Quiz Game em Java
